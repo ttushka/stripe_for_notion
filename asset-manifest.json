@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/stripe_for_notion/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/stripe_for_notion/static/js/main.4e7b836a.chunk.js",
-    "main.js.map": "/stripe_for_notion/static/js/main.4e7b836a.chunk.js.map",
+    "main.js": "/stripe_for_notion/static/js/main.b262d016.chunk.js",
+    "main.js.map": "/stripe_for_notion/static/js/main.b262d016.chunk.js.map",
     "runtime-main.js": "/stripe_for_notion/static/js/runtime-main.f3d89aa0.js",
     "runtime-main.js.map": "/stripe_for_notion/static/js/runtime-main.f3d89aa0.js.map",
     "static/js/2.4b608ba9.chunk.js": "/stripe_for_notion/static/js/2.4b608ba9.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.f3d89aa0.js",
     "static/js/2.4b608ba9.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.4e7b836a.chunk.js"
+    "static/js/main.b262d016.chunk.js"
   ]
 }
